@@ -1,6 +1,6 @@
 site:
-  name: SERP Games
-  site: 'https://serpgames.github.io'
+  name: SERP Style
+  site: 'https://serp-style.github.io'
   base: '/'
   trailingSlash: false
 
@@ -9,22 +9,22 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: SERP Games
-    template: '%s — SERP Games'
-  description: "\U0001F680 from \"Game ON\" to \"Game OVER\"."
+    default: SERP Style
+    template: '%s — SERP Style'
+  description: "\U0001F680 Look Good. Feel Good. Do Good."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: SERP Games
+    site_name: SERP Style
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@serpdotgames'
-    site: '@serpdotgames'
+    handle: '@serp-style'
+    site: '@serp-style'
     cardType: summary_large_image
 
 i18n:

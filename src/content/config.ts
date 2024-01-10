@@ -9,8 +9,8 @@ export async function GET(context) {
   
     // Generate the RSS feed
     return rss({
-        title: 'SERP Games',
-        description: 'All things boxing',
+        title: 'SERP Style',
+        description: '',
         site: context.site,
         items: blog.map((post) => ({
             title: post.data.title,

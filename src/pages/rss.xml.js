@@ -16,8 +16,8 @@ export async function GET(context) {
   }));
 
   return rss({
-    title: 'SERP Games | Post Feed',
-    description: 'Latest posts from SERP Games',
+    title: 'SERP Style | Post Feed',
+    description: 'Latest posts from SERP Style',
     site: context.site,
     items: feedItems,
   });

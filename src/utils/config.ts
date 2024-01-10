@@ -83,8 +83,8 @@ const DEFAULT_SITE_NAME = 'SERP Style';
 const getSite = () => {
   const _default = {
     name: DEFAULT_SITE_NAME,
-    site: 'serp-style.github.io',
-    base: 'serp-style.github.io',
+    site: 'https://serp.style',
+    base: 'https://serp.style',
     trailingSlash: false,
 
     googleSiteVerificationId: '',

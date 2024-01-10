@@ -1,1 +1,1 @@
-[![pages-build-deployment](https://github.com/serp-style/serp-style.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/serp-style/serp-style.github.io/actions/workflows/pages/pages-build-deployment) 
+[![pages-build-deployment](https://github.com/serpcompany/serp.style/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/serpcompany/serp.style/actions/workflows/pages/pages-build-deployment) 
